@@ -6,9 +6,6 @@ categories: Steganography CTF Tools
 ---
 
 
-stegbrute — Fast Steganography brute-force tool
-
-
 stegbrute that stands for steganography and bruteforce is a fast and simple steganography brute-force tool written in rust
 What is this?
 
