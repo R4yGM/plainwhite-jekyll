@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+date:   2020-07-23 21:03:36 +0530
+categories: CTF Writeups
 ---
 # GamingServer
 writeup of the room GamingServer in TryHackMe
