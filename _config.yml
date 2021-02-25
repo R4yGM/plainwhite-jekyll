@@ -14,7 +14,7 @@ sass:
 plainwhite:
   navigation:
     - title: About
-      url: "/about.md"
+      url: "/about.html"
   name: Rayan Yes
   tagline: Developer. InfoSec.
   date_format: "%b %-d, %Y"
