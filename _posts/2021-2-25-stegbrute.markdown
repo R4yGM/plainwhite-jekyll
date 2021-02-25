@@ -87,21 +87,21 @@ Comparision
 
 I saw around also stegcracker wich is also a great program so i tried to compare it to stegbrute, and these are the results:
 
-`
+```
 stegcracker :
 
 # time stegcracker image.jpg wordlist.txt | grep -E "real|user|sys"real    0m1.754s
 user    0m0.420s
 sys     0m0.362s
-`
+```
 
-`
+```
 stegbrute :
 
 # time stegbrute -f image.jpg -w wordlist.txt | grep -E "real|user|sys"real    0m0.553s
 user    0m0.366s
 sys     0m0.460s
-`
+```
 
 this says that stegbrute is more faster than stegcracker (i also tried to compare using other large wordlists)
 
