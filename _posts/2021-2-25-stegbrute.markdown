@@ -87,7 +87,8 @@ I saw around also stegcracker wich is also a great program so i tried to compare
 ```
 stegcracker :
 
-# time stegcracker image.jpg wordlist.txt | grep -E "real|user|sys"real    0m1.754s
+# time stegcracker image.jpg wordlist.txt | grep -E "real|user|sys"
+real    0m1.754s
 user    0m0.420s
 sys     0m0.362s
 ```
@@ -95,7 +96,8 @@ sys     0m0.362s
 ```
 stegbrute :
 
-# time stegbrute -f image.jpg -w wordlist.txt | grep -E "real|user|sys"real    0m0.553s
+# time stegbrute -f image.jpg -w wordlist.txt | grep -E "real|user|sys"
+real    0m0.553s
 user    0m0.366s
 sys     0m0.460s
 ```
