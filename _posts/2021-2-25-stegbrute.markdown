@@ -7,9 +7,9 @@ categories: Steganography CTF Tools
 
 
 stegbrute that stands for steganography and bruteforce is a fast and simple steganography brute-force tool written in rust
-What is this?
 
 
+# What is this?
 This program tries to extract hidden files using steganography inside another file or files, and to extract these files you need a password so by using bruteforce you can try as many passwords as you want very quickly, and this program automates all of this and makes it more faster using threads.
 How to use it
 
