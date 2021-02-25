@@ -6,9 +6,6 @@ categories: CTF Writeups
 ---
 
 
-# GamingServer
-
-
 writeup of the room GamingServer in TryHackMe
 
 first start by doing a port scan
