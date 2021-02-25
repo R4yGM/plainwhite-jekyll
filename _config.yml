@@ -13,10 +13,8 @@ sass:
   sass_dir: _sass
 plainwhite:
   navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
+    - title: About
+      url: "/about.md"
   name: Rayan Yes
   tagline: Developer. InfoSec.
   date_format: "%b %-d, %Y"
