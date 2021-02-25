@@ -66,7 +66,8 @@ where -f is the file you want to crack, -w is the wordlist (a big list of passwo
      ___) | ||  __/ (_| | |_) | |  | |_| | ||  __/
     |____/ \__\___|\__, |____/|_|   \__,_|\__\___|
                    |___/StegBrute v0.1.1 - By R4yan
-https://github.com/R4yGM/StegBruteBruteforcing the file 'image.jpg' with the wordlist 'wordlist.txt' using 3 threads
+https://github.com/R4yGM/StegBrute
+Bruteforcing the file 'image.jpg' with the wordlist 'wordlist.txt' using 3 threads
 (thread-0) Failed to crack the file, finished the passwords 178.02ms
 (thread-2) Failed to crack the file, finished the passwords 284.84ms
 password try: cool123 - Success
