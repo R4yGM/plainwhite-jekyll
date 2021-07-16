@@ -7,6 +7,7 @@ categories: CTF Guide Reviews
 
 
 But first of all what is TryHackMe? well, [TryHackMe](https://tryhackme.com) is a platform that delivers cyber-security training through gamified real-world labs.
+
 don’t concern yourself if you’re a complete beginer on the field or you think that this stuff is too much hard for you because TryHackMe has you covered, it has a ton of **walktroughts** and **challanges** that make you struggle and learn, and they even teach you a wide variety of things, it has over **193** rooms where most of them are completely free!
 
 ![](https://miro.medium.com/max/1024/1*LIDqxzIPCiqbK-G9aayx_A.png)
