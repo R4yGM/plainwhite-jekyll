@@ -261,4 +261,4 @@ And yeah that is Pre-Security path, I hope you enjoyed this blog post and found 
 
 also if you want to register on tryhackme and earn some more special rewards you can signup [here](https://tryhackme.com/signup?referrer=9e5fdb48bae5555e1d90574068b96c0349621a98) using my referral :)
 
-![](https://miro.medium.com/max/498/1\*QuIj9pG0OcEHNb7TpcEkxg.png)
+![](https://i.imgur.com/N7wEjaY.png)
