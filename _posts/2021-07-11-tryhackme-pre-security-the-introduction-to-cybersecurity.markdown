@@ -28,7 +28,7 @@ this path contains 4 main topics that i’m going to discuss later which are :
 and also a short room that simply explains the basics and concepts of cyber security.
 
 
-![](https://camo.githubusercontent.com/3b503b371f7e0a055d741ec096d4e404724be2853f262f3f5ea3c1414d6b9cfd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a344c6e544b32784255427a73594a594b4b43762d42672e706e67)
+![](https://i.imgur.com/ixzahMG.png)
 
 the topics
 
@@ -153,7 +153,7 @@ This is the last room of the category that basically let’s you combine the kno
 **Linux Fundamentals**
 ----------------------
 
-![](https://miro.medium.com/max/1400/1\*Wol9Uszh1LQANgBNQ5Ts-A.png)
+![](https://i.imgur.com/bSaOOPT.png)
 
 
 This category is extremely useful if you want to learn further cyber security and you are a complete novice to it, it covers all the basics of linux and a lot of useful commands, it contains 3 rooms all teaching different stuff
@@ -212,7 +212,7 @@ Overview :
 **Windows fundamentals**
 ------------------------
 
-![](https://miro.medium.com/max/1400/1\*iFk6ZljXZ4yt1UZPSyjKLw.png)
+![](https://i.imgur.com/LzzJrmx.png)
 
 This category is similar to the **Linux Fundamentals**,  this section takes a deep dive into the Windows operating system and provides you with a great foundation which will help you in identifying, exploiting and defending Windows systems, it has 2 rooms :
 
