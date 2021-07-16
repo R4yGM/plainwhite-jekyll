@@ -154,7 +154,7 @@ This is the last room of the category that basically let’s you combine the kno
 ----------------------
 
 ![](https://miro.medium.com/max/1400/1\*Wol9Uszh1LQANgBNQ5Ts-A.png)
-<img alt="" class="ff eo ek kc x" src="https://miro.medium.com/max/1400/1\*Wol9Uszh1LQANgBNQ5Ts-A.png" width="700" height="319" srcSet="https://miro.medium.com/max/552/1\*Wol9Uszh1LQANgBNQ5Ts-A.png 276w, https://miro.medium.com/max/1104/1\*Wol9Uszh1LQANgBNQ5Ts-A.png 552w, https://miro.medium.com/max/1280/1\*Wol9Uszh1LQANgBNQ5Ts-A.png 640w, https://miro.medium.com/max/1400/1\*Wol9Uszh1LQANgBNQ5Ts-A.png 700w" sizes="700px" role="presentation"/>
+
 
 This category is extremely useful if you want to learn further cyber security and you are a complete novice to it, it covers all the basics of linux and a lot of useful commands, it contains 3 rooms all teaching different stuff
 
