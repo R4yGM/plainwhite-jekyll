@@ -5,10 +5,11 @@ date:   2021-08-02 21:03:36 +0530
 categories: Unity UI Modern GUI
 ---
 
+![](https://assetstorev1-prd-cdn.unity3d.com/key-image/228b9e6c-3b3e-44e3-a316-b93b0c888ee5.webp)
 
 Need a modern and clean interface with smooth animations? with this pack you can do that quickly and easy! it contains over 208 prefabs with different styles and features of UI components ready to use into your project, it also contains a demo scene where you can copy or edit prefabs and examples.
 
-<iframe src="https://assetstore.unity.com/linkmaker/embed/package/198475/widget-wide-light?aid=1011ljPeo" style="width:600px; height:130px; border:0px;"></iframe>
+assets store link : https://assetstore.unity.com/packages/2d/gui/modern-and-clean-ui-pack-198475?aid=1011ljPeo
 
 Features
 
