@@ -8,7 +8,7 @@ categories: Unity UI Modern GUI
 
 Need a modern and clean interface with smooth animations? with this pack you can do that quickly and easy! it contains over 208 prefabs with different styles and features of UI components ready to use into your project, it also contains a demo scene where you can copy or edit prefabs and examples.
 
-<iframe src="https://assetstore.unity.com/linkmaker/embed/package/198475/widget-light?aid=1011ljPeo" style="width:202px; height:260px; border:0px;"></iframe>
+<iframe src="https://assetstore.unity.com/linkmaker/embed/package/198475/widget-wide-light?aid=1011ljPeo" style="width:600px; height:130px; border:0px;"></iframe>
 
 Features
 
