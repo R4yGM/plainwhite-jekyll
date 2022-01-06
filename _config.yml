@@ -1,5 +1,8 @@
 
 remote_theme: samarsault/plainwhite-jekyll
+environment:
+  name: test_environment
+  url: https://blog.r4yan.com/
 
 title: R4yan
 author: R4yGM
